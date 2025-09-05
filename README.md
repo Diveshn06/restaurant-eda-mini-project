@@ -23,13 +23,7 @@ The goal is to identify **best-rated**, **cost-effective**, and **region-specifi
 - **Ratings vs Cost**: Weak correlation → being expensive doesn’t always mean better ratings.  
 - **Votes vs Photos**: Strong correlation → popular restaurants have more photos uploaded.  
 - **Outliers**: Found in `average_cost_for_two`, `votes`, and `photo_count` (extreme values).  
-- **Region Feature**: Helps compare restaurant trends across India’s regions.  
-
----
-
-## 📂 Files in Repository
-- `Python1_mini_project_1757002582.pdf` → Full project solution (step-by-step).  
-- *(Optional)* `mini_project.ipynb` → Jupyter Notebook version of the project.  
+- **Region Feature**: Helps compare restaurant trends across India’s regions.    
 
 ---
 
@@ -38,7 +32,8 @@ The goal is to identify **best-rated**, **cost-effective**, and **region-specifi
 - **pandas**  
 - **numpy**  
 - **matplotlib**  
-- **seaborn**  
+- **seaborn**
+  
 
 ---
 
