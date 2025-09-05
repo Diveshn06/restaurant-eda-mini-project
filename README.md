@@ -35,9 +35,4 @@ The goal is to identify **best-rated**, **cost-effective**, and **region-specifi
 - **seaborn**
   
 
----
 
-## 📌 How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/restaurant-eda-mini-project.git
